@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63086022703",
+    "project_id": "greenpath-db",
+    "storage_bucket": "greenpath-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63086022703:android:37f75a766095acd3c676da",
+        "android_client_info": {
+          "package_name": "com.example.greenpath_20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63086022703-d95ig3g9e09m8n8rbj32l17ldjjb7aai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2iuFGKeuLX6IGLFEjK1ZksXfgRpqESmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63086022703-d95ig3g9e09m8n8rbj32l17ldjjb7aai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
